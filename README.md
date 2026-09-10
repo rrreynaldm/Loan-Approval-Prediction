@@ -1,4 +1,4 @@
-# Loan Approval Prediction
+# Loan Approval Analysis & Prediction
 
 ## Project Overview
 
